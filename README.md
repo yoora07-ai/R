@@ -1,7 +1,7 @@
 # Student Performance Analysis (R)
 
 ## Overview
-This is a group project and we analyzes student academic performance using the **Student Performance dataset** from the **UCI Machine Learning Repository**.  
+This is a group project and we analyze student academic performance using the **Student Performance dataset** from the **UCI Machine Learning Repository**.  
 The goal is to **predict final course grades (G3)** and identify key academic, behavioral, and background factors that influence student outcomes.
 
 The analysis focuses on the **Portuguese subject**, which provides a larger and more stable sample, and demonstrates an end-to-end data analytics workflow from exploratory analysis to model comparison.
